@@ -1,7 +1,5 @@
-# Otobus-biletrezerve-uygulama1
-
-Kendi Çapımda MsSQL veri tabanını kulanarak yapmışım olduğum otobüs bileti alma uygulaması 
-[Veriler Gerçeği Yansıtmamaktadır]
+Basic bus-ticket app , using MSSQL,C#
+-Data doesn't reflect the truth
 
 ![Ekran görüntüsü 2023-08-19 182925](https://github.com/FurkanErd1/Otobus-biletrezerve-uygulama1/assets/114918636/35b9e7cf-868c-4b13-96fe-08449ee6aaa2)
 ![Ekran görüntüsü 2023-08-19 183002](https://github.com/FurkanErd1/Otobus-biletrezerve-uygulama1/assets/114918636/5975efa2-0396-42a5-b3d5-c3a686fdfc9a)
